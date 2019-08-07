@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-[Intel® OpenVINO™](https://software.intel.com/en-us/openvino-toolkit) - [https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html)
+[Intel® OpenVINO™](https://software.intel.com/en-us/openvino-toolkit) - [https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_Convert_Model_From_TensorFlow.html](Convert_Model_From_TensorFlow)
